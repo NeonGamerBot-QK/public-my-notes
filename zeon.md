@@ -1,0 +1,2 @@
+- make him do meta issues.
+- make mybot add a dashboard for this notes.
