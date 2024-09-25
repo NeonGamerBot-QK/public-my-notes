@@ -8,3 +8,4 @@
   > add more stuff to check such as README.md, contributing.md, LICENSE. custom zeon config.
 
 - make mybot add a dashboard for this notes.
+- make zeon get all known bdays via hackclub slack & send happy bdays on X birthday.
