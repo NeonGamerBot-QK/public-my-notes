@@ -4,3 +4,4 @@
 - build sprig once it arrives.
 - scrapbook
 - hackclub imap reader for quick verification codes. - make it in [coffeescript](https://coffeescript.org/)
+- *zeon related task see [this](./zeon.md)*
