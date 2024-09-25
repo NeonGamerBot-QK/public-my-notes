@@ -2,7 +2,7 @@
   <br />meta issues auto update when repo is updated.
   they are in checklist format
   <br />if all are fixed OR a box which overrides the perms.
-  <br /> **URGENT** exclude repos forcibly. 
+  <br /> **URGENT** exclude repos forcibly.
 
   > it will close then & say meta - ok
   > zeon will add optionals such as homepage, cover (etc).
