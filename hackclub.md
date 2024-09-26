@@ -6,3 +6,4 @@
 - hackclub imap reader for quick verification codes. - make it in [coffeescript](https://coffeescript.org/)
 - _zeon related task see [this](./zeon.md)_
 - make a hackclub slack bot which gets the hourly weather @ hackclub hq
+> notes: Location = Shelburne, VT
