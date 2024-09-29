@@ -11,4 +11,4 @@
 - make mybot add a dashboard for this notes.
 - make zeon get all known bdays via hackclub slack & send happy bdays on X birthday.
 - make a program in (maybe) deno which is an SMS bot which can read and prase apples sms messages of location sharing while on apple maps.
-> example:I will arrive at [location] around [timestamp]. I’ll let you know if I’m running late.
+  > example:I will arrive at [location] around [timestamp]. I’ll let you know if I’m running late.
