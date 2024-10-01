@@ -11,3 +11,9 @@
   > specif: work on slack CI
 - hang up posters this week
 - finish up nest-pgp-chat [repo](https://git.hackclub.app/neon/nest-pgp-chat)
+- [ ] do [this](https://manor.hackclub.com/) challange
+> react? most likely.
+> use catpuccin or hackclub colors
+> spooky font
+> add jumpscares
+> do all stuff correctly.
