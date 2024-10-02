@@ -17,3 +17,7 @@
   > spooky font
   > add jumpscares
   > do all stuff correctly.
+### riceathon
+create jam for linux mint rice:
+> use catppuccin;
+> [rofi](https://github.com/catppuccin/rofi)
