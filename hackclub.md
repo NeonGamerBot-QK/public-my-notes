@@ -12,12 +12,16 @@
 - hang up posters this week
 - finish up nest-pgp-chat [repo](https://git.hackclub.app/neon/nest-pgp-chat)
 - [ ] do [this](https://manor.hackclub.com/) challange
-  > ~~react? most likely.~~ html,css,js
-  > use catpuccin or hackclub colors
+  > ~~react? most likely.~~ html,css,js - 50%
+  > use **catpuccin** or ~~hackclub colors~~
   > spooky font
-  > add jumpscares
+  > add jumpscares 25%
   > do all stuff correctly.
+
 ### riceathon
+- todo tmrw:D
 create jam for linux mint rice:
+
 > use catppuccin;
 > [rofi](https://github.com/catppuccin/rofi)
+> theme cinnamon UI.
