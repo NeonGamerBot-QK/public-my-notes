@@ -19,9 +19,8 @@
   > do all stuff correctly.
 
 ### riceathon
-- todo tmrw:D
-create jam for linux mint rice:
-
-> use catppuccin;
+https://github.com/hackclub/jams/pull/230
+- ~~todo tmrw:D
+  create jam for linux mint rice:~~ 
 > [rofi](https://github.com/catppuccin/rofi)
 > theme cinnamon UI.
