@@ -11,16 +11,18 @@
   > specif: work on slack CI
 - hang up posters this week
 - finish up nest-pgp-chat [repo](https://git.hackclub.app/neon/nest-pgp-chat)
-- [ ] do [this](https://manor.hackclub.com/) challange
-  > ~~react? most likely.~~ html,css,js - 50%
+- [x] do [this](https://manor.hackclub.com/) challange
+  > ~~react? most likely.~~ html,css,js - 100%
   > use **catpuccin** or ~~hackclub colors~~
-  > spooky font
-  > add jumpscares 25%
+  > spooky font - oops i [*almost*](https://github.com/NeonGamerBot-QK/spooky-boba/commit/b90b3abee109f5424c5d573552c157d4cf61d71c) forgot
+  > add jumpscares 105%
   > do all stuff correctly.
 
 ### riceathon
+
 https://github.com/hackclub/jams/pull/230
+
 - ~~todo tmrw:D
-  create jam for linux mint rice:~~ 
-> [rofi](https://github.com/catppuccin/rofi)
-> theme cinnamon UI.
+  create jam for linux mint rice:~~
+  > [rofi](https://github.com/catppuccin/rofi)
+  > theme cinnamon UI.
