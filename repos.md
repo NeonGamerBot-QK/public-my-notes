@@ -1,4 +1,5 @@
 ## Public Repos
+
 [NeonGamerBot-QK/.github](https://github.com/NeonGamerBot-QK/.github) - https://github.com/NeonGamerBot-QK/.github/issues/2
 <br />[NeonGamerBot-QK/62885A-robotics](https://github.com/NeonGamerBot-QK/62885A-robotics) - https://github.com/NeonGamerBot-QK/62885A-robotics/issues/2
 <br />[NeonGamerBot-QK/aboutme-template](https://github.com/NeonGamerBot-QK/aboutme-template) - https://github.com/NeonGamerBot-QK/aboutme-template/issues/3
@@ -49,6 +50,6 @@
 <br />[NeonGamerBot-QK/msuci-test](https://github.com/NeonGamerBot-QK/msuci-test) - No meta issue
 <br />[NeonGamerBot-QK/music-app](https://github.com/NeonGamerBot-QK/music-app) - No meta issue
 <br />[NeonGamerBot-QK/NeonGamerBot-QK](https://github.com/NeonGamerBot-QK/NeonGamerBot-QK) - No meta issue
-<br />[NeonGamerBot-QK/nixos](https://github.com/NeonGamerBot-QK/nixos) - https://github.com/NeonGamerBot-QK/nixos/issues/30 
+<br />[NeonGamerBot-QK/nixos](https://github.com/NeonGamerBot-QK/nixos) - https://github.com/NeonGamerBot-QK/nixos/issues/30
 <br />[NeonGamerBot-QK/no-madiens](https://github.com/NeonGamerBot-QK/no-madiens) - No meta issue
 <br />[NeonGamerBot-QK/nonbypassable-form](https://github.com/NeonGamerBot-QK/nonbypassable-form) - No meta issue
