@@ -14,7 +14,7 @@
 - [x] do [this](https://manor.hackclub.com/) challange
   > ~~react? most likely.~~ html,css,js - 100%
   > use **catpuccin** or ~~hackclub colors~~
-  > spooky font - oops i [*almost*](https://github.com/NeonGamerBot-QK/spooky-boba/commit/b90b3abee109f5424c5d573552c157d4cf61d71c) forgot
+  > spooky font - oops i [_almost_](https://github.com/NeonGamerBot-QK/spooky-boba/commit/b90b3abee109f5424c5d573552c157d4cf61d71c) forgot
   > add jumpscares 105%
   > do all stuff correctly.
 
