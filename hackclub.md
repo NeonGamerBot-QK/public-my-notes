@@ -9,7 +9,9 @@
   ~~> notes: Location = Shelburne, VT~~
 - ~~work on https://github.com/emergenitro/counterspell-map for counterspell :D~~ https://github.com/hackclub/counterspell/pull/3
   > specif: work on slack CI
-- hang up posters this week
+- [x] hang up posters this week
+- - [ ] Get zrl to correct points 
+- - [ ] checkup on other posters
 - finish up nest-pgp-chat [repo](https://git.hackclub.app/neon/nest-pgp-chat)
 - [x] do [this](https://manor.hackclub.com/) challange
   > ~~react? most likely.~~ html,css,js - 100%
@@ -21,7 +23,7 @@
 ### riceathon
 
 https://github.com/hackclub/jams/pull/230
-
+https://github.com/hackclub/jams/pull/230
 - ~~todo tmrw:D
   create jam for linux mint rice:~~
   > [rofi](https://github.com/catppuccin/rofi)
