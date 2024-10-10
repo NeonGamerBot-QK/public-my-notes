@@ -19,11 +19,12 @@
   > spooky font - oops i [_almost_](https://github.com/NeonGamerBot-QK/spooky-boba/commit/b90b3abee109f5424c5d573552c157d4cf61d71c) forgot
   > add jumpscares 105%
   > do all stuff correctly.
-
+- [ ] Do this https://hackclub.slack.com/archives/C0266FRGV/p1728587339688399 :D 
 ### riceathon
 
 https://github.com/hackclub/jams/pull/230
-- now slideshow https://github.com/hackclub/jams/pull/230#issuecomment-2403696424
+
+- ~~now slideshow https://github.com/hackclub/jams/pull/230#issuecomment-2403696424~~ done
 - ~~todo tmrw:D
   create jam for linux mint rice:~~
   > [rofi](https://github.com/catppuccin/rofi)
