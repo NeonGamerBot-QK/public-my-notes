@@ -10,7 +10,7 @@
 - ~~work on https://github.com/emergenitro/counterspell-map for counterspell :D~~ https://github.com/hackclub/counterspell/pull/3
   > specif: work on slack CI
 - [x] hang up posters this week
-- - [ ] Get zrl to correct points 
+- - [ ] Get zrl to correct points
 - - [ ] checkup on other posters
 - finish up nest-pgp-chat [repo](https://git.hackclub.app/neon/nest-pgp-chat)
 - [x] do [this](https://manor.hackclub.com/) challange
@@ -23,7 +23,7 @@
 ### riceathon
 
 https://github.com/hackclub/jams/pull/230
-https://github.com/hackclub/jams/pull/230
+- now slideshow https://github.com/hackclub/jams/pull/230#issuecomment-2403696424
 - ~~todo tmrw:D
   create jam for linux mint rice:~~
   > [rofi](https://github.com/catppuccin/rofi)
