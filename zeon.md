@@ -11,7 +11,8 @@
 
 - make mybot add a dashboard for this notes. - 5%
 - make zeon get all known bdays via hackclub slack & send happy bdays on X birthday. - 15%
-- make a program in (maybe) ~~deno~~ (now bun) which is an SMS bot which can read and parse apples sms messages of location sharing while on apple maps. - WIP. 70% [repo](https://github.com/NeonGamerBot-QK/apple-maps-stats)
+- ~~make a program in (maybe) ~~deno~~ (now bun) which is an SMS bot which can read and parse apples sms messages of location sharing while on apple maps. - WIP. 70% [repo](https://github.com/NeonGamerBot-QK/apple-maps-stats)~~ todo: add to zeon.
   > example:I will arrive at [location] around [timestamp]. I’ll let you know if I’m running late.
 - make slack zeon (if possible) cycle thru bdays and send happy bday to user in channel
 - my mail app :D
+- ~~import~~ borrow some stuff from slickstats
