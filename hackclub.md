@@ -3,7 +3,7 @@
 - scrapbook
 - ~~hackclub imap reader for quick verification codes. - make it in [coffeescript](https://coffeescript.org/)~~ 90%
 - _zeon related task see [this](./zeon.md)_
-https://github.com/hackclub/counterspell/pull/3
+  https://github.com/hackclub/counterspell/pull/3
   > specif: work on slack CI
 - - [x] Get zrl to correct points
 - - [x] checkup on other posters
