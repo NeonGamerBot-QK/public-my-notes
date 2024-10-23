@@ -1,1 +1,1 @@
-- [ ] create site for history project by NEXT monday 
+- [ ] create site for history project by NEXT monday
