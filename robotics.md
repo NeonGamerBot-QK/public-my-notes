@@ -1,4 +1,5 @@
 Vex robotics:
+
 - help build & code crane (for mounting)
 - code
 - journal thorughly

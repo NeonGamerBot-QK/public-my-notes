@@ -18,7 +18,7 @@
 - [x] make hcb faq and help bot based of [this data](https://hackclub.slack.com/archives/C07SBMR4LSC/p1728940866610229?thread_ts=1728858180.247689&cid=C07SBMR4LSC) + more data sourced from announcments (and any messages with permission).
 - [ ] Make a slack bot which auto crossposts messages :D
 - [ ] Work on [MTA open data challange](https://new.mta.info/article/mta-open-data-challenge)
-
+- [ ] for browser-buddy do whatever this [poll](https://hackclub.slack.com/archives/C07R8DYAZMM/p1729736375366829) comes out to.
 ### riceathon
 
 https://github.com/hackclub/jams/pull/230
