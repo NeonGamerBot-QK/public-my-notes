@@ -20,6 +20,7 @@
 - [ ] Work on [MTA open data challange](https://new.mta.info/article/mta-open-data-challenge)
 - [ ] for browser-buddy do whatever this ~~[poll](https://hackclub.slack.com/archives/C07R8DYAZMM/p1729736375366829) comes out to.~~ Vencord but for slack. ill be doing this thru oauth2
 - [ ] create a site with gpt-4 to create xmas lists using previous gifts & intrests.
+- [ ] zeon analytics for slack (most messages for user) - use csv data.
 ### riceathon
 
 https://github.com/hackclub/jams/pull/230
