@@ -1,6 +1,8 @@
 Vex robotics:
 
-- help build & code crane (for mounting)
 - code
 - journal thorughly
-- [x] ~~samual needs to add his entry~~
+- [ ] Shift bar near back wheel down one.
+- [ ] create drop intake
+- [ ] shift another component by one
+- [ ] the 3 above will make it in spec

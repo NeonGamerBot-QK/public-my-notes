@@ -1,1 +1,2 @@
-- [ ] create site for history project by NEXT monday
+- [x] create site for history project by NEXT monday
+- [ ] Water fill up areas / water fountains raiting (can ONLY be KCD)!

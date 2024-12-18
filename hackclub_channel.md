@@ -1,0 +1,1 @@
+- 4h on slack zeon till 2025

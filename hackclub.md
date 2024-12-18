@@ -16,12 +16,13 @@
   > do all stuff correctly.
 - [x] Do this https://hackclub.slack.com/archives/C0266FRGV/p1728587339688399 :D
 - [x] make hcb faq and help bot based of [this data](https://hackclub.slack.com/archives/C07SBMR4LSC/p1728940866610229?thread_ts=1728858180.247689&cid=C07SBMR4LSC) + more data sourced from announcments (and any messages with permission).
-- [ ] Make a slack bot which auto crossposts messages :D
-- [ ] Work on [MTA open data challange](https://new.mta.info/article/mta-open-data-challenge)
-- [ ] for browser-buddy do whatever this ~~[poll](https://hackclub.slack.com/archives/C07R8DYAZMM/p1729736375366829) comes out to.~~ Vencord but for slack. ill be doing this thru oauth2
-- [ ] create a site with gpt-4 to create xmas lists using previous gifts & intrests.
+- [x] Make a slack bot which auto crossposts messages :D
+- [ ]~~ Work on [MTA open data challange](https://new.mta.info/article/mta-open-data-challenge)~~ i forgot
+- [ ] for browser-buddy do whatever this ~~[poll](https://hackclub.slack.com/archives/C07R8DYAZMM/p1729736375366829) comes out to.~~ Vencord but for slack. ill be doing this thru oauth2 - 15% im not submitting it for browser buddy no more tho
+- [ ] create a site with gpt-4 to create xmas lists using previous gifts & intrests. (HIGH SEAS PROJECT WTF)
 - [ ] zeon analytics for slack (most messages for user) - use csv data.
+
 ### riceathon
 
-https://github.com/hackclub/jams/pull/230
+https://github.com/hackclub/jams/pull/230 - check up w/ the person helping on that :heavysob:
 removed extra text cuz yes
