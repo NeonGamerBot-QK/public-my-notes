@@ -13,6 +13,6 @@ Vex robotics:
 - [ ] fix the intake grabber thing -- needs a bar extenstion
 - [ ] the aim is ok 1/3 chance of getting in. (as in it dont go all the way down but it still gets in sorta)
 - [ ] the front intake is ok somehow, will get stuck when not moving & trying to take something in.
-- [ ] please check photos for the exact angles 
-  notes:
-  4-6psi is used per click.
+- [ ] please check photos for the exact angles
+      notes:
+      4-6psi is used per click.
