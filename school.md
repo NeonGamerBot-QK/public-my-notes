@@ -1,2 +1,3 @@
 - [x] create site for history project by NEXT monday
 - [ ] Water fill up areas / water fountains raiting (can ONLY be KCD)!
+- [ ] make site so people share there free's and can opt in to help sign people out
