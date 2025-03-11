@@ -1,4 +1,4 @@
-- so zeon got banned :( i should maybe fix that (GITHUB RESPOND PLEASEEE)
+- ~~so zeon got banned :( i should maybe fix that (GITHUB RESPOND PLEASEEE)~~
 - make him do meta issues. - 15%
   <br />meta issues auto update when repo is updated.
   they are in checklist format
