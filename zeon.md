@@ -15,3 +15,4 @@
   > example:I will arrive at [location] around [timestamp]. I’ll let you know if I’m running late.
 - ~~make slack zeon (if possible) cycle thru bdays and send happy bday to user in channel~~ ~not possible, users bday info is not public, plan 2 is to make a channel where you can join to have ur bday announced.~
 - my mail app :D
+- hwf signal zeon app 
