@@ -16,4 +16,4 @@
 - ~~make slack zeon (if possible) cycle thru bdays and send happy bday to user in channel~~ ~not possible, users bday info is not public, plan 2 is to make a channel where you can join to have ur bday announced.~
 - my mail app :D
 - hwf signal zeon app
-- (not zeon) but using apple shortcuts make web imessage texting 
+- (not zeon) but using apple shortcuts make web imessage texting
